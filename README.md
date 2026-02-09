@@ -3,13 +3,12 @@
 A production-ready news summarization system using Direct Preference Optimization (DPO) to align T5-large with human preferences. The system provides intelligent text summarization with support for multiple input formats, hierarchical processing, and iterative refinement through a modern web interface.
 
 ## Table of Contents
-1. [Author](#author)
-2. [Overview](#overview)
-3. [Project Structure](#project-structure)
-4. [How to Run the Project](#how-to-run-the-project)
-5. [Python Dependencies](#python-dependencies)
-6. [Documentation Links](#documentation-links)
-7. [Final Notes and Disclaimers](#final-notes-and-disclaimers)
+1. [Overview](#overview)
+2. [Project Structure](#project-structure)
+3. [How to Run the Project](#how-to-run-the-project)
+4. [Python Dependencies](#python-dependencies)
+5. [Documentation Links](#documentation-links)
+6. [Final Notes and Disclaimers](#final-notes-and-disclaimers)
 
 -----
 
